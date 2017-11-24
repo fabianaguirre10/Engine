@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxB4fQNgFi0GQ2cF2VYj4lAAAAAACAAAAAAAQZgAAAAEAACAAAAAfCjQ4hKVV2adIGLookdtF/PgClTfbVzF2RFbnazI8OwAAAAAOgAAAAAIAACAAAAAllrrN51qRE8Od+AQOyWSlWwO7Gh4CnfD4zS60SUsUcoAAAAA9JMpt4DwiNFiQGCyJJ4Hkpdfo1O7w60Rxq2iI3KRZ7yQlf9vuj5Dw0vN0Y0Idb+/h3YyVLKPmRteRE5tRN6IWXY6Sc3WIrw2RcqjoZa42Jp03gI8Qr9SJIFyWNW+TRKGLggGvYVPP3iKnO9wWaIdKDl0cjSAUfUkpxHYNFvKi3EAAAACaKKOCd6Z3kej/2lz0gGATBDNhUUSYaAZA7+ASd3yebA/HQLSnReKsATmDbdiBwz3hijt1k2prWpK/fWk89Qh0</EncryptedPassword>
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+    <_PublishTargetUrl>ftp://waws-prod-sn1-063.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

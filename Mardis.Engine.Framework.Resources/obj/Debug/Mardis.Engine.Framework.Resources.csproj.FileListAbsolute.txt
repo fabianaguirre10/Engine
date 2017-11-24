@@ -1,0 +1,5 @@
+D:\Mardis\Source\Engine\src\Mardis.Engine.Framework.Resources\bin\Debug\Mardis.Engine.Framework.Resources.dll
+D:\Mardis\Source\Engine\src\Mardis.Engine.Framework.Resources\bin\Debug\Mardis.Engine.Framework.Resources.pdb
+D:\Mardis\Source\Engine\src\Mardis.Engine.Framework.Resources\obj\Debug\Mardis.Engine.Framework.Resources.dll
+D:\Mardis\Source\Engine\src\Mardis.Engine.Framework.Resources\obj\Debug\Mardis.Engine.Framework.Resources.pdb
+D:\Mardis\Source\Engine\src\Mardis.Engine.Framework.Resources\obj\Debug\Mardis.Engine.Framework.Resources.csproj.CoreCompileInputs.cache

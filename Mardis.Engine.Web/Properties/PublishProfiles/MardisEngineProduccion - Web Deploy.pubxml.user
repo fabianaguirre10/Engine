@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxB4fQNgFi0GQ2cF2VYj4lAAAAAACAAAAAAAQZgAAAAEAACAAAAAp5t3/WP9NYgiypKClyT1fHYa/y4YpnkD5T8TNyFeaAgAAAAAOgAAAAAIAACAAAAC2cquFTFrWvhe40h7Uu36lbLNqtm5Y9XTWCQenFp88tyAAAAD4v7o2zQidixYq5x5X2kJCCGITT4/p5opvqp76ncGxxEAAAAAThkh0/ZYZ7sNZxGu6BYlt05Ym0/lCb3ms21fuHHiRpNI5qUEfM1XfmYbftzfDNulKKhtyy/8mTzik6vH2jUgg</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzureConnection">
+      <Value>DefaultEndpointsProtocol=https;AccountName=mardisenginefotos;AccountKey=Ux7bCzdhNh+pmxMTdgwqQ4BJnvEDaTHoSffPaz7d//uGbOHkGrMAmoE4WZ2ng9sy7Bm8R3WG5LQS2B5KOL3PWA==;</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:mardisenginetestbd.database.windows.net,1433;Initial Catalog=MardisEngine_Test;Persist Security Info=False;User ID=mardisengine;Password=Mard!s3ngin3;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;MultipleActiveResultSets=True;App=EntityFramework;Connection Lifetime=120; Max Pool Size = 200; Min Pool Size = 10; Pooling=True;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

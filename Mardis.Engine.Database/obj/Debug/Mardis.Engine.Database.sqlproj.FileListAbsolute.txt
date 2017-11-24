@@ -1,0 +1,9 @@
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\bin\Debug\Mardis.Engine.Database.dacpac
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\bin\Debug\Mardis.Engine.Database.dll
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\bin\Debug\Mardis.Engine.Database.pdb
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\obj\Debug\Model.xml
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\obj\Debug\refactor.xml
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\obj\Debug\postdeploy.sql
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\obj\Debug\predeploy.sql
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\obj\Debug\Mardis.Engine.Database.dll
+D:\Mardis\Source\Engine\src\Mardis.Engine.Database\obj\Debug\Mardis.Engine.Database.pdb
